@@ -10,4 +10,5 @@ In this project I am showing an example of the use of SQL and Python knowledge.
 ## Database
 The Chinook database contains information about a fictional digital music shop. It consists of 11 tables: information about the artists, songs, albums from the music shop, the shop's employees, customers and the customers purchases.
 
+The database can be downloaded from here:
 [Downloads page](https://github.com/lerocha/chinook-database/tree/master/ChinookDatabase/DataSources)
